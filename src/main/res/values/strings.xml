@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Schedule_Fire</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="minimum_password">Fail</string>
+    <string name="auth_failed">Fail</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4000</color>
+    <color name="colorPrimaryDark">#FF4000</color>
+    <color name="colorAccent">#FF4000</color>
+    <color name="colorLogo">#FF4000</color>
+    <color name="blue">#0040FF</color>
+    <color name="red">#FF0000</color>
+</resources>
